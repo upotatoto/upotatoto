@@ -1,5 +1,6 @@
   # Park-sangwon's portfolio
 ![cylinder](https://capsule-render.vercel.app/api?&text=Welcome&type=cylinder&color=auto&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Sangwon's%20GitHub%20profile&descAlignY=70)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F382FF&title_bg=%23CD16BE&icon=coffeescript.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/upotato01)
 ## Skills
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
