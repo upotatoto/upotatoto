@@ -1,4 +1,4 @@
-# Park-sangwon's ID: upotato
+# Park-sangwon's portfolio
 ![cylinder](https://capsule-render.vercel.app/api?&text=Welcome&type=cylinder&color=auto&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Sangwon's%20GitHub%20profile&descAlignY=70)
 ## Skills
 ### Platforms & Languages
