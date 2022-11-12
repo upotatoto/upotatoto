@@ -11,5 +11,7 @@
 
 ### 만든 페이지
 1학년 학습동아리: https://distracted-ptolemy-5a92fc.netlify.app/
+
 2학년 워드프레스: http://thesouls.iwinv.net/
+
 교내대회: 리빙랩 솔버스(https://serene-kulfi-220357.netlify.app/)
