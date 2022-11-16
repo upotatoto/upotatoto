@@ -6,7 +6,7 @@
 
 Email: whlsls3377@gmail.com
 
-hello world!, 클라이언트의 요청사항을 분석하는 개발자, 제 이름은 박상원입니다.
+hello world!, 클라이언트의 요청사항을 분석하는 초보 개발자(아직 학생!), 제 이름은 박상원입니다.
 
 ## Skills
 ### Platforms & Languages
