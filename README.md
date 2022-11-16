@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/upotato01m%2Fgjbae1212%2Fhit-counter&count_bg=%23F382FF&title_bg=%23CD16BE&icon=coffeescript.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/upotato01)
 ## Introduce myself
 
-Email: whlsls3377@gmail.com
+Email: 
 
 hello world!, 클라이언트의 요청사항을 분석하는 초보 개발자(아직 학생!), 제 이름은 박상원입니다.
 
