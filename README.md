@@ -20,6 +20,6 @@ hello world!, 클라이언트의 요청사항을 분석하는 초보 개발자(�
 ### 만든 웹페이지 [2021~2023년]
 1학년 학습동아리: https://distracted-ptolemy-5a92fc.netlify.app/
 
-2학년 워드프레스: http://thesouls.iwinv.net/ -(https://comforting-marshmallow-fec795.netlify.app/)
+2학년 워드프레스: http://thesouls.iwinv.net/
 
 교내대회: 리빙랩 솔버스(https://serene-kulfi-220357.netlify.app/)
