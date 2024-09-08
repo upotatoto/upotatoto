@@ -1,4 +1,4 @@
-# Park-sangwon's portfolio
+# Park's portfolio
 ![cylinder](https://capsule-render.vercel.app/api?&text=Welcome&type=cylinder&color=auto&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Sangwon's%20GitHub%20profile&descAlignY=70)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/upotato01m%2Fgjbae1212%2Fhit-counter&count_bg=%23F382FF&title_bg=%23CD16BE&icon=coffeescript.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/upotato01)
